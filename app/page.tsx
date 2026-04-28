@@ -91,7 +91,7 @@ export default function CVPage() {
                 <div className="flex flex-col md:flex-row md:items-center gap-4">
                   <div className="w-26 h-26 rounded-full overflow-hidden border-4 border-white/20 mx-auto md:mx-0">
                     <img
-                      src="/avatar.jpg"
+                      src="/avatar2.png"
                       alt="Emiliano Aloi"
                       className="w-full h-full object-cover"
                     />
